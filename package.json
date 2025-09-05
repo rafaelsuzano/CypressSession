@@ -1,0 +1,26 @@
+{
+  "name": "cypresssession",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaelsuzano/CypressSession.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafaelsuzano/CypressSession/issues"
+  },
+  "homepage": "https://github.com/rafaelsuzano/CypressSession#readme",
+  "description": "",
+  "dependencies": {
+    "cypress": "^15.1.0"
+  },
+  "devDependencies": {
+    "cypress-plugin-api": "^2.11.2"
+  }
+}
